@@ -1,6 +1,6 @@
-## Hey, [Sujal chavan ](https://www.linkedin.com/in/anikurhade/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
+## Hey, [Sujal chavan ](https://www.linkedin.com/in/sujalchavan1018/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
 
-<h1>Welcome To  Codic Gryffindors  World..  <img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" height="30px" width="45px"> </h1>
+<h3>Welcome To  Codic Gryffindors  World..  <img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" height="30px" width="45px"> </h3>
 <div align="center">
 <img src = 'https://github.com/sujallchavan/sujallchavan/blob/master/original-2e28c2c6661cc9e0ae3ed5b5594c7e90.gif' alt = 'Awesome Matrix Code' />
 </div>
@@ -48,11 +48,7 @@
 ### Tools: <a href="https://git-scm.com/"><img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/></a><a> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/></a><a href="https://code.visualstudio.com/"> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/></a><img align="center" src="https://img.icons8.com/color/32/000000/pycharm.png"/>
 
 ## My Current Stats
-<p align="center">
-    <a href="https://github.com/anikurhade/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anirudha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anikurhade&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 
 
