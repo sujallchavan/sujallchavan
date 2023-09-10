@@ -1,15 +1,15 @@
-## Hey, [Anirudha ](https://www.linkedin.com/in/anikurhade/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
+## Hey, [Sujal chavan ](https://www.linkedin.com/in/anikurhade/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
 
 <h1>Welcome To  Codic Gryffindors  World..  <img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" height="30px" width="45px"> </h1>
 <div align="center">
-<img src = 'https://github.com/anikurhade/anikurhade/blob/main/images/intro_Trim.gif' alt = 'Awesome Matrix Code' />
+<img src = '[https://github.com/anikurhade/anikurhade/blob/main/images/intro_Trim.gif](https://cdn.dribbble.com/userupload/4995531/file/original-2e28c2c6661cc9e0ae3ed5b5594c7e90.gif)' alt = 'Awesome Matrix Code' />
 </div>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sujallchavan'></p>
 
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Anirudha Kurhade'
+ 	user = 'Sujal Chavan'
 		current_edu = "Vishwakarma Institute Of Information Technology"
 		hobbies = [![octocat-1666328419687](https://user-images.githubusercontent.com/63186413/197313016-37c854ca-e068-429e-ab61-35b70c9ac785.png)
 
@@ -23,6 +23,7 @@
 	
 	def Ambitions():
 		LearnMusicProduction()
+                Drawing()
 		CreateAClub()
 		FinishMyNovel()
 		
