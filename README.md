@@ -1,11 +1,11 @@
-## Hey, [Sujal chavan ](https://www.linkedin.com/in/sujalchavan1018/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
+## Hey, [Anirudha ](https://www.linkedin.com/in/anikurhade/)  here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px">
 
-<h3>Welcome To  Codic Gryffindors  World..  <img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" height="30px" width="45px"> </h3>
+<h1>Welcome To  Codic Gryffindors  World..  <img src="https://media.giphy.com/media/Js1Fd7ANot7Q7ZXEcb/giphy.gif" height="30px" width="45px"> </h1>
 <div align="center">
-<img src = 'https://github.com/sujallchavan/sujallchavan/blob/master/original-2e28c2c6661cc9e0ae3ed5b5594c7e90.gif' alt = 'Awesome Matrix Code' />
+<img src = 'https://github.com/anikurhade/anikurhade/blob/main/images/intro_Trim.gif' alt = 'Awesome Matrix Code' />
 </div>
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sujallchavan'></p>
-sujak
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
+
 ## Who am I?
  ```python
  class WhoAmI:
@@ -63,5 +63,4 @@ Stats | Languages
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&redirect=true)
 	
 <br/>
-
 
