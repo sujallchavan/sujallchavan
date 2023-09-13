@@ -55,12 +55,7 @@
 
 Stats | Languages
 ------| ----------
-![Anirudha 's Github Stats](https://github-readme-stats.vercel.app/api?username=anikurhade&show_icons=true&theme=midnight-purple) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikurhade&layout=compact&theme=midnight-purple&langs_count=5)](https://github.com/anikurhade/github-readme-stats)
 
-## Now Playing On My List 🎧
- <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=n0cw1z461q8a0dyq3b030p6yk&redirect=true)
 	
 <br/>
 
