@@ -47,11 +47,7 @@
 ### Tools: <a href="https://git-scm.com/"><img align="center" src="https://img.icons8.com/color/30/4a90e2/git.png"/></a><a> <img align="center" src="https://img.icons8.com/fluency/30/000000/github.png"/></a><a href="https://code.visualstudio.com/"> <img align="center" src="https://img.icons8.com/fluency/30/000000/visual-studio-code-2019.png"/></a><img align="center" src="https://img.icons8.com/color/32/000000/pycharm.png"/>
 
 ## My Current Stats
-<p align="center">
-    <a href="https://github.com/anikurhade/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anirudha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anikurhade&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 Stats | Languages
 ------| ----------
