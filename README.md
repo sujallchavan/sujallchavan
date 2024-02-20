@@ -13,8 +13,8 @@
 		current_edu = "Vishwakarma Institute Of Information Technology"
 		hobbies = [![octocat-1666328419687](https://user-images.githubusercontent.com/63186413/197313016-37c854ca-e068-429e-ab61-35b70c9ac785.png)
 
-				'Produce EDM beats',
-				'Watching Sci-Fi,Fictional Movies And WebSeries',
+				'React pages',
+				'Watching Sci-Fi,Fictional , Romantic Movies And WebSeries',
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
