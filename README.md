@@ -9,7 +9,7 @@
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Anirudha Kurhade'
+ 	user = 'Sujal Chavan'
 		current_edu = "Vishwakarma Institute Of Information Technology"
 		hobbies = [![octocat-1666328419687](https://user-images.githubusercontent.com/63186413/197313016-37c854ca-e068-429e-ab61-35b70c9ac785.png)
 
